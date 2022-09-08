@@ -1,0 +1,27 @@
+body{
+    background-image: url(../IMG/istockphoto-1159041639-612x612.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.navbar.navbar-expand-lg.bg-danger{
+    background-color:rgb(228, 141, 70) !important;
+}
+i.fa-brands.fa-facebook.fa-2xl:hover{
+    color:blue;
+}
+i.fa-brands.fa-instagram.fa-2xl:hover{
+    color:rgb(245, 117, 138);
+}
+i.fa-brands.fa-linkedin.fa-2xl:hover{
+    color:rgb(23, 23, 180);
+}
+.list-group{
+    --darkreader-bg--bs-list-group-bg-color: transparent;
+}
+section.about{
+    margin-top: 10rem;
+}
+section.dashboard, section.panel{
+    margin-top: 9rem;
+}
